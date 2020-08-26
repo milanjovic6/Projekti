@@ -1,0 +1,76 @@
+*{
+box-sizing: border-box;
+}
+h1{
+    color: cornflowerblue;
+    position: absolute;
+    left: 46.5%;
+    top: 10%;
+    font-family: sans-serif;
+    
+}
+form{
+position: absolute;
+top: 25%;
+left:35%;
+right:35%
+
+}
+fieldset{
+    border-radius: 10px;
+    width: 100%;
+
+}
+fieldset div label{
+    color: cornflowerblue;
+    font-size:14px;
+    width: 70%;
+
+}
+fieldset div input{
+    border-style: none;
+    border-bottom: 1px solid cornflowerblue;
+    outline: none;
+    width: 100%;
+    top: 10px;
+
+}
+
+fieldset span label{
+    font-size: 16px;
+    color:slateblue;
+    position: relative;
+    left:40%;
+}
+fieldset span input{
+    position: relative;
+    left: 40%;
+}
+
+fieldset .submit{
+    position: relative;
+    left:45%;
+    border-radius: 10px;
+    outline: none;
+    color: gray;
+    background-color:lightblue;
+    font-size:15px;
+}
+p{
+    background-color:lightblue;
+    position: absolute;
+    top:60%;
+    left:49%;
+    border: 0.5px dashed black ;
+    height: 3%;
+    width: 5%;
+    align-content: center;
+    text-align:center ;
+    
+    
+}
+p:hover{
+    color: red;
+    background-color:whitesmoke;
+}
+

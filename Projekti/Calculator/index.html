@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalkulator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Kalkulator</h1>
+    <form>
+        <fieldset>
+            <div>
+
+            <label for="prvibroj">Unesite prvi broj:</label>
+            <input type="text" id="prvibroj" name="prvibroj" value="0">
+            <br><br>
+            <label for="drugibroj">Unesite drugi broj:</label>
+            <input type="text" id="drugibroj" name="drugibroj" value="0">
+
+            </div>
+            <br><br><br>
+            <span>
+                <label class="sabiranje-label" for="sabiranje"><b>+</b></label>
+                <input class="sabiranje" type="radio" name="operacija" id="+" value="+" checked>
+                <label class="oduzimanje-label" for="sabiranje"><b>-</b></label>
+                <input class="oduzimanje" type="radio" name="operacija" id="-" value="-">
+                <label class="mnozenje-label" for="mnozenje"><b>*</b></label>
+                <input class="mnozenje" type="radio" name="operacija" id="*" value="*">
+                <label class="deljenje-label" for="deljenje"><b>/</b></label>
+                <input class="deljenje" type="radio" name="operacija" id="/" value="/">
+            </span><br><br>
+            <input class="submit" type="submit" value="Izracunaj">
+        </fieldset>
+    </form>
+    
+        <p id="res">
+
+        </p>
+    
+    <script src="script.js"></script>
+</body>
+</html>
