@@ -1,0 +1,11 @@
+C:\Users\milan\source\repos\FoodRandomizer\obj\Release\FoodRandomizer.csprojAssemblyReference.cache
+C:\Users\milan\source\repos\FoodRandomizer\obj\Release\FoodRandomizer.Form1.resources
+C:\Users\milan\source\repos\FoodRandomizer\obj\Release\FoodRandomizer.Form2.resources
+C:\Users\milan\source\repos\FoodRandomizer\obj\Release\FoodRandomizer.Properties.Resources.resources
+C:\Users\milan\source\repos\FoodRandomizer\obj\Release\FoodRandomizer.csproj.GenerateResource.cache
+C:\Users\milan\source\repos\FoodRandomizer\obj\Release\FoodRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\milan\source\repos\FoodRandomizer\bin\Release\FoodRandomizer.exe.config
+C:\Users\milan\source\repos\FoodRandomizer\bin\Release\FoodRandomizer.exe
+C:\Users\milan\source\repos\FoodRandomizer\bin\Release\FoodRandomizer.pdb
+C:\Users\milan\source\repos\FoodRandomizer\obj\Release\FoodRandomizer.exe
+C:\Users\milan\source\repos\FoodRandomizer\obj\Release\FoodRandomizer.pdb

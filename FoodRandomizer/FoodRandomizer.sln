@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodRandomizer", "FoodRandomizer.csproj", "{A10CB235-D942-46A8-98EA-8E6A57DF5DB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A10CB235-D942-46A8-98EA-8E6A57DF5DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10CB235-D942-46A8-98EA-8E6A57DF5DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10CB235-D942-46A8-98EA-8E6A57DF5DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10CB235-D942-46A8-98EA-8E6A57DF5DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1C1F2AE-50D7-4004-A6A3-DAADFC57FFF9}
+	EndGlobalSection
+EndGlobal
